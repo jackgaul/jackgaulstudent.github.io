@@ -1,2 +1,2 @@
-# jackgaulstudent.github.io
+# jackgaul.github.io
 cocc C++
